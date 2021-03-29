@@ -16,8 +16,8 @@
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#laptop-autor">Autor</a> &#xa0; | &#xa0;
-  <a href="#computer-licença">Licença</a> 
+  <a href="#computer-autor">Autor</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> 
 </p>
 
 <br>
