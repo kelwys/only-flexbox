@@ -8,7 +8,7 @@
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/kelwys/only-flexbox?color=56BEB8">
 
-
+  <img alt="Licença" src="https://img.shields.io/github/license/kelwys/only-flexbox?color=56BEB8">
 </p>
 
 <hr>
