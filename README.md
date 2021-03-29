@@ -17,7 +17,7 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#laptop-autor">Autor</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> 
+  <a href="#computer-licença">Licença</a> 
 </p>
 
 <br>
@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 - [CSS FlexBox](https://www.alura.com.br/artigos/css-guia-do-flexbox)
 
-## :laptop: Autor ##
+## :computer: Autor ##
 
 <img style="border-radius: 50% !important;" src="https://kelwys.github.io/images/avatar.png" width="100px;" alt="photo author"/>
 
